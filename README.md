@@ -1,5 +1,3 @@
----
-
 # Interpréteur d'expressions ensemblistes
 
 Ce projet est un interpréteur d'expressions ensemblistes développé en C à l'aide des outils **Lex** et **Yacc**. Il permet de manipuler des ensembles d'entiers compris entre 1 et 32, en utilisant des opérations classiques telles que l'union, l'intersection, la différence et le complément.
@@ -34,4 +32,3 @@ Résultat attendu :
 { 1, 3, 22 }
 { 1, 3 }
 ```
----
